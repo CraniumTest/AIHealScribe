@@ -1,0 +1,4 @@
+speechrecognition==3.8.1
+transformers==4.24.0
+torch==1.12.1+cu116
+cryptography==39.0.0
